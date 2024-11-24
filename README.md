@@ -26,7 +26,7 @@
 
 
 
-- cd vultscan
+- cd V_ultscan
 
 
 
@@ -47,9 +47,6 @@
 
 - ______________________
 
-
-
-
 - NOME AGO RESPONSABLE 
-- POELOSDAÑOS
+- DELOS DAÑOS 
 - CAUSADOS POR ESTE Script
