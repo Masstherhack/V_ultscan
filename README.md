@@ -35,7 +35,7 @@
 
 
 
-- chmod install.sh
+- chmod +x install.sh
 
 
 
